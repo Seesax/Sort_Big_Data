@@ -5,4 +5,4 @@
 <br />2)Combine all the sorted small parts to make complete sort file.
 <br />Members:
 <br />1)Hà Huy Hoang - 21127610.
-<br />2)Trịnh Hạnh
+<br />2)Trịnh Hạnh - 21127040
